@@ -6,6 +6,5 @@ tags : ["Getting started"]
 categories : []
 ---
 
-Hello world!
+First blog using Hugo. I'll attempt to keep up with this mostly to provide internal documentation for my ongoing/past projects.
 
-First blog using Hugo.
