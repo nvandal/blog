@@ -2,6 +2,7 @@
 	path = public
 	url = git@github.com:nvandal/nvandal.github.io.git
 	branch = master
+	ignore = all
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
