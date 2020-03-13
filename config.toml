@@ -1,4 +1,4 @@
-baseURL = "https://nvandal.github.io"
+baseURL = "https://nvandal.com"
 languageCode = "en-us"
 title = "nvandal blog"
 theme = "ananke"
